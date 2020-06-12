@@ -21,3 +21,37 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/statistics.csv
+/statistics1.csv
+/statistics_alltxt.csv
+/word_statistics-middle.csv
+/word_statistics-shake.csv
+/word_statistics-tkmb.csv
+/word_statistics.csv
+.idea
+/.classpath
+/.project
+/BookReader.iml
+/rsc/test-files/A Bee Movie Script.txt
+/rsc/test-files/ALL.txt
+/rsc/test-files/Anna Karenina - Tolstoy.txt
+/rsc/test-files/Bleak House - Dickens.txt
+/rsc/test-files/David Copperfield - Dickens.txt
+/rsc/test-files/Don Quixote - Cervantes.txt
+/rsc/test-files/Green Eggs and Ham.txt
+/rsc/test-files/Hamlet-Scene-1.txt
+/rsc/test-files/King James Bible.txt
+/rsc/test-files/Les Miserables - Hugo.txt
+/rsc/test-files/Middlemarch - Eliot.txt
+/rsc/test-files/Moby Dick - Melville.txt
+/rsc/test-files/Shakespeare.txt
+/rsc/test-files/Text-01M.txt
+/rsc/test-files/Text-02M.txt
+/rsc/test-files/Text-05M.txt
+/rsc/test-files/Text-10M.txt
+/rsc/test-files/Text-20M.txt
+/rsc/test-files/The Brothers Karamazof - Dostoyevsky.txt
+/rsc/test-files/The Hunchback of Notre Dame - Hugo.txt
+/rsc/test-files/The Three Musketeers - Dumas.txt
+/rsc/test-files/To Kill a Mockingbird - Harper Lee.txt
+/rsc/test-files/War and Peace.txt
